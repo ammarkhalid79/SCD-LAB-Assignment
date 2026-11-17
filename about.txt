@@ -1,0 +1,3 @@
+I enjoy building web applications with React Next.js Node.js and PostgreSQL.
+I like creating apps that make everyday work easier for businesses.
+I’m also learning React Native so I can build mobile apps.
